@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  button {
+    @apply px-6 py-2 text-center sm:px-6 font-semibold rounded-full shadow-md focus:outline-none;
+  }
+  /*
+  @font-face {
+    font-family: Helvetica;
+    font-weight: 400;
+    src: url(Helvetica);
+  }
+  */
+}

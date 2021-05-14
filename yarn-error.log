@@ -1,0 +1,27 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add vue-cli-plugin-vue-next -D --tilde
+
+PATH: 
+  D:\Working\landing-template\node_modules\.bin;D:\Working\node_modules\.bin;D:\node_modules\.bin;C:\Program Files\nodejs;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\VisualSVN Server\bin;C:\ProgramData\ComposerSetup\bin;C:\wamp64\bin\php\php7.0.10;C:\wamp64\bin\php\php7.4.0;C:\Program Files (x86)\Common Files\Tom Sawyer Software\8.0.0;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\Instalaciones\Git\Git\cmd;C:\Users\Claudia\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\Claudia\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\Claudia\AppData\Local\Programs\Python\Python38\;C:\sonar-scanner-4.2.0.1873-windows\bin;C:\Users\Claudia\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\4.2\bin;C:\Users\Claudia\AppData\Local\GitHubDesktop\bin;C:\Users\Claudia\AppData\Roaming\Composer\vendor\bin;C:\Users\Claudia\AppData\Roaming\npm;C:\Users\Claudia\AppData\Local\Yarn\bin;C:\Users\Claudia\AppData\Local\Microsoft\WindowsApps;C:\Users\Claudia\AppData\Local\Programs\Microsoft VS Code\bin;C:\OpenJDK\jdk-15.0.1\bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  12.18.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect EACCES 104.16.21.35:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1141:16)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
